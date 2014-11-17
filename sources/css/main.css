@@ -36,6 +36,6 @@ ul.posts li {
     list-style: none;
 }
 blockquote {
-    border-left: 2px solid #d5d5d5;
+    border-left: 5px solid #d5d5d5;
     padding-left: 10px;
 }
