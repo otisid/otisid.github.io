@@ -3,6 +3,9 @@ body {
     width: 70%;
     font-family: Monaco, monospace;
 }
+nav {
+    text-transform: uppercase;
+}
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
