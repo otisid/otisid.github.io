@@ -41,4 +41,5 @@ ul.posts li {
 blockquote {
     border-left: 5px solid #d5d5d5;
     padding-left: 10px;
+    font-size: 1.0em;
 }
