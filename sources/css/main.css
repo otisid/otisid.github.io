@@ -20,7 +20,7 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    border-bottom: 2px solid #d5d5d5;
 }
 p {
     font-size: 1.0em;
@@ -31,15 +31,13 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-ul.posts li {
-    list-style: none;
-}
 blockquote {
     border-left: 5px solid #d5d5d5;
     padding-left: 10px;
     font-size: 0.8em;
+}
+img {
+    background-color: #d7d7d7;
+    padding: 2px 2px;
+    border-radius: 2px;
 }
