@@ -1,4 +1,4 @@
 otisid.github.io
 ================
 
-Personal pages powered by Jekyll and GitHub.
+Personal pages powered by Jekyll and GitHub Pages.
