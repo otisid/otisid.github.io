@@ -12,6 +12,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    font-size: 1.0em;
     display: inline;
     margin-right: 20px;
 }
@@ -22,7 +23,7 @@ a {
 a:hover {
     border-bottom: 2px solid #d5d5d5;
 }
-p {
+p, li {
     font-size: 0.8em;
     line-height: 1.2em;
     color: #333;
